@@ -7,6 +7,6 @@ chrome.webRequest.onBeforeRequest.addListener(
 		return {cancel: enabled };
 	},
 	{urls: blocked_domains},
-	//{urls: ["<all_urls>"]}, /* replace with list of blacklisted urls */
+	//block the urls on the blacklist
 	["blocking"]
 );
