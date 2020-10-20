@@ -47,3 +47,13 @@ I would like to thank the Pihole community for many of their domain blacklists, 
 I would also like to thank Steven Black and Luke Smith for a few of their lists, which have been included in this project. 
 
 NSbarriers is a fork of "dyi-adblocker" by Adrian Stoll.
+
+NSbarriers is created and maintained by rav3ndust. 
+
+Steven Black's GitHub: https://github.com/StevenBlack
+
+Luke Smith's GitHub: https://github.com/LukeSmithxyz
+
+Adrian Stoll's GitHub: https://github.com/adrs
+
+rav3ndust's GitHub: https://github.com/rav3ndust
