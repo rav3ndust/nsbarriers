@@ -46,6 +46,8 @@ I would like to thank the Pihole community for many of their domain blacklists, 
 
 I would also like to thank Steven Black and Luke Smith for a few of their lists, which have been included in this project. 
 
+Thanks to Ryoko Umbra for helping with the icon designs for NSbarriers.
+
 NSbarriers is a fork of "dyi-adblocker" by Adrian Stoll.
 
 NSbarriers is created and maintained by rav3ndust. 
