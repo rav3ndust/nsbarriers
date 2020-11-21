@@ -26,7 +26,8 @@ To use the Firefox extension, you should be running Mozilla Firefox or a Firefox
 
 -Select the nsbarriers-firefox.xpi file you made earlier
 
-Please note that this will only load Nightshade Barriers temporarily. We will be adding NSbarriers to the Mozilla Add-on platform soon so users can install it and use it permanently. 
+Please note that this will only load Nightshade Barriers temporarily, and is best done this way for testing purposes. If you would like to install it on your Firefox permanently, you can download the extension on the Mozilla Add-Ons for Firefox store. The link is below if you would like to grab it from there. 
+https://addons.mozilla.org/en-US/firefox/addon/nsbarriers/
 
 # Updating your domain blacklist
 
