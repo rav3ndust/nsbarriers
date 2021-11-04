@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--create a UI for the NSbarriers extension-->
+<html>
+<style>
+	body {
+		background-color: black;
+		color: white;
+	}
+
+	head {
+		background-color: black;
+		color: red;
+	}
+	.categories {
+		background-color: rgb(38, 2, 43);
+		color: rgb(255, 81, 0);
+		text-align: center;
+	}
+	.controlCenter {
+		background-color: rgb(48, 1, 48);
+		color: rgb(123, 255, 0); 
+	}
+</style>
+
+<head>
+	<script src="popup.js"></script>
+</head>
+<body>
+<h3>Nightshade Barriers</h3>
+<p><i>A lightweight ad and tracker blocker</i></p>
+<!--adblock control section-->
+<div class="categories">
+	<p><b>~ ~ ~ </b></p>
+</div>
+<h3 style="color:red">Adblock Controls</h3>
+<!--make the button to turn NSbarriers off and on-->
+<input type="button" id="toggle_button" value="Nightshade Barriers DOWN" />
+<p>Enable <b>Nightshade Barriers</b> to block ads and trackers. Disable <b>Nightshade Barriers</b> if a site breaks.</p>
+<!--javascript blocking section-->
+<div class="categories">
+	<p><b>~ ~ ~ </b></p>
+</div>
+<h3 style="color:red">Javascript Blocking</h3>
+<!--make the button to turn blockJS on and off-->
+<input type="button" id="toggle_button2" value="Block Javascript" />
+<p>Enable <b>Javascript Blocking</b> to block all JavaScript from running in your browser. Disable <b>Javascript Blocking</b> to allow JavaScript.</p>
+<!--link to an internal area to control nsBarriers-->
+<div class="categories">
+	<p>~ ~ ~</p>
+</div>
+<h3 style="color:red">Control Center</h3>
+<p>You can further control <b>Nightshade Barriers</b> by visiting the internal <b>Control Center</b> pages.</p>
+<!--create the link to the internal control center-->
+<p><a href="controlCenter.html"><button>nsBarriers Control Center</button></a></p>
+<p style="background-color:purple; color:white">~~~~~~</p>
+<p><b>NSbarriers</b> is free software from <a href="https://rav3ndust.xyz">rav3ndust.xyz</a></p>
+</body>
+
+</html>
