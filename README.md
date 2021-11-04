@@ -12,6 +12,10 @@ To use the Chrome extension, you should be running Chrome or a Chromium-based br
 
 -Click on "load unpacked extension" and select the nsbarriers folder
 
+You can also download Nightshade Barriers for Chromium-based browsers at the Chrome Web Store using the link below: 
+
+https://chrome.google.com/webstore/detail/nightshade-barriers/bkjhmmmjmofjiidchigfgnbgmminkknl?hl=en-US
+
 # How to install on Firefox
 
 To use the Firefox extension, you should be running Mozilla Firefox or a Firefox-based browser. 
