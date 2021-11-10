@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Nightshade Barriers 
 
-You can use the [editor on GitHub](https://github.com/rav3ndust/nsbarriers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Nightshade Barriers is a free and open-source ad, tracker, and script blocker for Firefox, Chrome, and all derivatives of the two that support extensions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ads and trackers from third parties (friendly or not) have become pervasive all across the internet, getting harder and harder to get away from. 
 
-### Markdown
+**Nightshade Barriers** has a simple and easy-to-use UI, easy to understand. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Install Nightshade Barriers on Your Browser
 
-```markdown
-Syntax highlighted code block
+You can get Nightshade Barriers on your own browser easily, from one of the two extension marketplaces: 
 
-# Header 1
-## Header 2
-### Header 3
+Grab it for **Firefox** and browsers based on Firefox (such as **Ghostery Dawn**): 
 
-- Bulleted
-- List
+- [**Mozilla Addons for Firefox Store**](https://addons.mozilla.org/en-US/firefox/addon/nsbarriers/)
 
-1. Numbered
-2. List
+Grab it for **Chrome** or other browsers based on Chromium (**Microsoft Edge**, **Brave**, **Vivaldi**, **Opera**):
 
-**Bold** and _Italic_ and `Code` text
+- [**Chrome Web Store**](https://chrome.google.com/webstore/detail/nightshade-barriers/bkjhmmmjmofjiidchigfgnbgmminkknl?hl=en-US)
 
-[Link](url) and ![Image](src)
-```
+You can also [download it from my website](https://rav3ndust.xyz/nsbarriers.html) in a **.zip** if that's your thing.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## === 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rav3ndust/nsbarriers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[my website](https://rav3ndust.xyz) | [connect on neighborli](https://neighborli.xyz/@rav3ndust) | [my GitHub](https://github.com/rav3ndust) 
