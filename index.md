@@ -6,6 +6,8 @@ Ads and trackers from third parties (friendly or not) have become pervasive all 
 
 **Nightshade Barriers** has a simple and easy-to-use UI, easy to understand. 
 
+## ===
+
 ### Install Nightshade Barriers on Your Browser
 
 You can get Nightshade Barriers on your own browser easily, from one of the two extension marketplaces: 
