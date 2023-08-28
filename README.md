@@ -2,6 +2,13 @@
 
 Block ads, scripts, and social trackers with the click of a button with this simple and lightweight Chrome/Firefox extension.
 
+### Download on Your Browser
+
+**Nightshade Barriers** is available for download on the **Chrome Web Store** and the **Firefox Add-ons Store**.
+
+- Install the extension on **Chromium** and **Chromium-based browsers**: [Nightshade Barriers on Chromium](https://chrome.google.com/webstore/detail/nightshade-barriers/bkjhmmmjmofjiidchigfgnbgmminkknl)
+- Install the extension on **Firefox** and **Firefox-based browsers**: [Nightshade Barriers on Firefox](https://addons.mozilla.org/en-US/firefox/addon/nsbarriers/)
+
 # How to install on Chromium
 
 To use the Chrome extension, you should be running Chrome or a Chromium-based browser, such as Brave.
