@@ -61,10 +61,12 @@ NSbarriers is a fork of "dyi-adblocker" by Adrian Stoll.
 
 NSbarriers is created and maintained by rav3ndust. 
 
-Steven Black's GitHub: https://github.com/StevenBlack
+**Relevant links**:
 
-Luke Smith's GitHub: https://github.com/LukeSmithxyz
+- [Steven Black's GitHub](https://github.com/StevenBlack)
 
-Adrian Stoll's GitHub: https://github.com/adrs
+- [Luke Smith's GitHub](https://github.com/LukeSmithxyz)
 
-rav3ndust's GitHub: https://github.com/rav3ndust
+- [Adrian Stoll's GitHub](https://github.com/adrs)
+
+- [rav3ndust's GitHub](https://github.com/rav3ndust)
