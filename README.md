@@ -9,7 +9,7 @@ Block ads, scripts, and social trackers with the click of a button with this sim
 - Install the extension on **Chromium** and **Chromium-based browsers**: [Nightshade Barriers on Chromium](https://chrome.google.com/webstore/detail/nightshade-barriers/bkjhmmmjmofjiidchigfgnbgmminkknl)
 - Install the extension on **Firefox** and **Firefox-based browsers**: [Nightshade Barriers on Firefox](https://addons.mozilla.org/en-US/firefox/addon/nsbarriers/)
 
-# How to install on Chromium
+## How to install locally on Chromium
 
 To use the Chrome extension, you should be running Chrome or a Chromium-based browser, such as Brave.
 
@@ -19,7 +19,7 @@ To use the Chrome extension, you should be running Chrome or a Chromium-based br
 
 -Click on "load unpacked extension" and select the nsbarriers folder
 
-# How to install on Firefox
+## How to install locally on Firefox
 
 To use the Firefox extension, you should be running Mozilla Firefox or a Firefox-based browser. 
 
@@ -37,7 +37,7 @@ Please note that this will only load Nightshade Barriers temporarily, and is bes
 
 ~Nightshade Barriers on the Firefox extension store -- https://addons.mozilla.org/en-US/firefox/addon/nsbarriers/
 
-# Updating your domain blacklist
+## Updating your domain blacklist
 
 The blacklist on this NSbarriers is going to be constantly updated, however, you are free to add your own domains to the blacklist if you would like. Simply open up the blocked_domains.js file in your favorite text editor, copy the format for adding in a website, like this:
 
@@ -45,11 +45,11 @@ The blacklist on this NSbarriers is going to be constantly updated, however, you
 
 and then, add in the domains you would like to block. Save the file and reload the extension, and you should be good to go.
 
-# Contributing
+## Contributing
 
 NSbarriers is free software. You are free to contribute to its ongoing development if you would like.
 
-# Credits
+## Credits
 
 I would like to thank the Pihole community for many of their domain blacklists, as I use several of them in this project, and will be implementing more still. 
 
